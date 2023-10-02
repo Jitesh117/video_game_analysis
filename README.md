@@ -13,10 +13,10 @@
 
 ## Genre Analysis
 - [x] Explore the distribution of games across different genres.
-- [ ] Compute the total global sales for each genre.
+- [x] Compute the total global sales for each genre.
 
 ## Platform Analysis
-- [ ] Analyze the distribution of games on different platforms.
+- [x] Analyze the distribution of games on different platforms.
 - [ ] Compute the total global sales for each platform.
 
 ## Publisher Analysis
