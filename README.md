@@ -25,7 +25,7 @@
 
 ## Yearly Analysis
 - [x] Analyze the number of game releases per year ('Year_of_Release').
-- [ ] Compute the total global sales for each year.
+- [x] Compute the total global sales for each year.
 
 ## Sales Analysis
 - [ ] Explore the distribution of sales in different regions (NA, EU, JP, Other).
