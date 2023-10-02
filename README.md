@@ -17,14 +17,14 @@
 
 ## Platform Analysis
 - [x] Analyze the distribution of games on different platforms.
-- [ ] Compute the total global sales for each platform.
+- [x] Compute the total global sales for each platform.
 
 ## Publisher Analysis
-- [ ] Analyze the distribution of games based on the publisher.
-- [ ] Compute the total global sales for each publisher.
+- [x] Analyze the distribution of games based on the publisher.
+- [x] Compute the total global sales for each publisher.
 
 ## Yearly Analysis
-- [ ] Analyze the number of game releases per year ('Year_of_Release').
+- [x] Analyze the number of game releases per year ('Year_of_Release').
 - [ ] Compute the total global sales for each year.
 
 ## Sales Analysis
