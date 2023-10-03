@@ -32,23 +32,23 @@
 - [x] Analyze the correlation between critic/user scores and global sales.
 
 ## User Score Analysis
-- [ ] Explore the distribution of user scores ('User_Score').
-- [ ] Analyze the relationship between user scores and global sales.
+- [x] Explore the distribution of user scores ('User_Score').
+- [x] Analyze the relationship between user scores and global sales.
 
 ## Rating Analysis
-- [ ] Explore the distribution of game ratings ('Rating').
-- [ ] Analyze the relationship between ratings and global sales.
+- [x] Explore the distribution of game ratings ('Rating').
+- [x] Analyze the relationship between ratings and global sales.
 
 ## User Count vs. Global Sales
-- [ ] Analyze the relationship between user count ('User_Count') and global sales.
-- [ ] Explore if highly sold games tend to have more user engagement.
+- [x] Analyze the relationship between user count ('User_Count') and global sales.
+- [x] Explore if highly sold games tend to have more user engagement.
 
 ## Critic Score vs. User Score
-- [ ] Analyze the relationship between critic scores and user scores.
+- [x] Analyze the relationship between critic scores and user scores.
 
 ## Developer Analysis
-- [ ] Explore the distribution of games based on developers.
-- [ ] Compute the total global sales for each developer.
+- [x] Explore the distribution of games based on developers.
+- [x] Compute the total global sales for each developer.
 
 ## Long Tail Analysis
 - [ ] Identify and analyze the 'long tail' of less popular games with minimal sales.
@@ -59,19 +59,16 @@
 ## Genre Trends Over Time
 - [ ] Analyze how popular gaming genres have evolved over the years.
 
-## Platform Performance Over Time
-- [ ] Analyze how different gaming platforms' performance has changed over the years.
-
 ## User Engagement and Sales Correlation
 - [ ] Investigate if higher user engagement (User_Count) correlates with higher global sales.
 
 ## Regional Sales Analysis
-- [ ] Analyze and compare game sales in different regions (NA, EU, JP, Other).
+- [x] Analyze and compare game sales in different regions (NA, EU, JP, Other).
 
 ## Age and Rating Analysis
-- [ ] Analyze how game ratings and sales vary with age ratings (e.g., E for Everyone, T for Teen).
+- [x] Analyze how game ratings and sales vary with age ratings (e.g., E for Everyone, T for Teen).
 
 ## Market Share Analysis
-- [ ] Compute the market share for each genre, platform, or publisher based on global sales.
+- [x] Compute the market share for each genre, platform, or publisher based on global sales.
 
 
