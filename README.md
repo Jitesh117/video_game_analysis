@@ -28,8 +28,8 @@
 - [x] Compute the total global sales for each year.
 
 ## Sales Analysis
-- [ ] Explore the distribution of sales in different regions (NA, EU, JP, Other).
-- [ ] Analyze the correlation between critic/user scores and global sales.
+- [x] Explore the distribution of sales in different regions (NA, EU, JP, Other).
+- [x] Analyze the correlation between critic/user scores and global sales.
 
 ## User Score Analysis
 - [ ] Explore the distribution of user scores ('User_Score').
